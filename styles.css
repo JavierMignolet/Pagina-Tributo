@@ -1,0 +1,82 @@
+#main {
+  max-width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  background-color: white;
+}
+
+#title {
+  text-align: center;
+  margin: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-weight: bold;
+  font-family: Berlin Sans FB Demi;
+  font-size: 60px;
+  background-color: #adadc9;
+}
+
+#legend {
+  font-style: italic;
+  font-size: 13px;
+  padding-bottom: 20px;
+  background-color: #adadc9;
+}
+
+#img-div {
+  max-width: 600px;
+  max-height: auto;
+  margin: auto auto auto auto;
+  background-color: white;
+}
+
+#image {
+  max-width: 100%;
+  max-height: auto;
+  display: block;
+  padding-bottom: 10px;
+  border-radius: 20px 20px 20px 20px;
+  padding-top: 10px;
+}
+
+#img-caption {
+  font-style: italic;
+  font-size: 12px;
+  padding-bottom: 10px;
+}
+
+#subtitle {
+  font-size: 30px;
+  padding-top: 50px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#uno {
+  padding-top: 20px;
+}
+
+#tribute-info {
+  text-align: justify;
+  background-color: #c5c6d0;
+  font-family: Lucida Sans Unicode;
+}
+#seis,
+#siete {
+  font-style: italic;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  font-weight: bold;
+}
+
+#referencia {
+  padding-top: 20px;
+  text-align: center;
+}
