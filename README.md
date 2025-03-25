@@ -21,7 +21,7 @@ En este proyecto, se creó una página de homenaje donde se aplicaron los concep
 4. Accesibilidad y Usabilidad:
 - Organización del contenido.
 
-En resumen, este proyecto no solo permitió la creación de un formulario funcional y atractivo, sino que también proporcionó una valiosa experiencia práctica en el uso de HTML y CSS. La combinación de técnicas de estructuración y estilización aprendidas son fundamentales para futuros desarrollos web.
+En resumen, este proyecto no solo permitió la creación de una pagina tributo, sino que también proporcionó una valiosa experiencia práctica en el uso de HTML y CSS. La combinación de técnicas de estructuración y estilización aprendidas son fundamentales para futuros desarrollos web.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
